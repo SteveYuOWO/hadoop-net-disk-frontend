@@ -1,0 +1,64 @@
+.text-center {
+    text-align: center;
+}
+
+.nav-title {
+    padding-left: 80px;
+    padding-top: 15px;
+    color: rgb(92, 91, 91) !important;
+}
+
+.nav-header {
+    background: rgb(255, 255, 255);
+}
+
+.gray {
+    color: rgb(92, 91, 91) !important;
+}
+
+.content-body {
+    background-color: rgb(147, 194, 255);
+}
+
+.login-content {
+    background-color: white;
+    display: inline-block;
+    width: 50%;
+    padding-right: 11em;
+    padding-top: 5em;
+    padding-bottom: 5em;
+    margin: 0 auto;
+}
+
+.login-border {
+    padding-top: 8em;
+    padding-bottom: 8em;
+}
+
+.login-adjust {
+    padding-right: 2em;
+}
+
+.loginform-avatar {
+    margin-left: 8em;
+    margin-bottom: 2em;
+    border: 3px solid rgb(0, 119, 255);
+}
+
+.dash-content {
+    margin-left: 10em;
+    margin-right: 10em;
+    margin-top: 4em;
+    margin-bottom: 4em;
+    height: 100%;
+}
+
+.dashtag {
+    padding: 3px 10px;
+}
+
+.upload-btn {
+    float: left;
+    margin-bottom: 2em;
+    font-weight: 500
+}
