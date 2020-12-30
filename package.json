@@ -1,6 +1,7 @@
 {
   "name": "hadoopnetdisk-front",
   "version": "0.1.0",
+  "homepage": "./",
   "private": true,
   "dependencies": {
     "@ant-design/icons": "^4.3.0",
